@@ -9,6 +9,7 @@ public class PruebaGitHub {
         // TODO code application logic here
         
         System.out.println("Prueba GitHub");
+        System.out.println("Prueba desde github");
     }
     
 }
